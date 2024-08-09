@@ -52,7 +52,7 @@ import warnings
 # Ignore all warnings
 warnings.filterwarnings('ignore')
 
-# %matplotlib inline
+
 
 from google.colab import drive
 drive.mount("/content/drive", force_remount=True)
